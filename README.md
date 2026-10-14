@@ -7,9 +7,9 @@ An original side-scrolling platformer inspired by classic 1985-era platform game
 ## Features
 - Momentum-based running with skidding, variable jump height, coyote time and jump buffering
 - Fixed 60 Hz simulation with render interpolation and a smooth camera that looks ahead
-- High-DPI vector-style art: Duskguard, an original caped vigilante with a spring-physics cape that flutters and lets you glide slightly if you hold jump while falling,, Grumbles (mushroom critters) and Snappers (kickable shells)
+- High-DPI vector-style art: Duskguard, an original caped vigilante with a spring-physics cape that flutters and lets you glide slightly if you hold jump while falling,, a rival gang: grin-mask thugs, belly-sliding tuxedo bird-thugs (the kickable shell), question-mark puzzlers with boomerangs, fear-gas scarecrows, and a giggling chemical clown king boss
 - ? blocks, breakable bricks, Sproutcap (grow), Ember Bloom (fireballs), Prism Star (invincibility), 1-ups, and 100 coins for an extra life
-- Worlds 1-1 to 1-4: overworld, underground with a bonus pipe, athletic treetops with lifts, and a castle with firebars, a boss, a bridge and an axe
+- A dark gothic city at night with parallax skylines, gargoyles, rain, searchlights, neon and a big moon. Worlds 1-1 to 1-4: city streets, sewers with a bonus pipe, rooftops with lifts, and a chemical factory with spark bars, a toxic vat, the boss and a bridge lever
 - Chiptune music and sound effects, a title screen, pause, and a high score saved in localStorage
 - Keyboard, touch and gamepad controls
 
