@@ -7,7 +7,7 @@ An original side-scrolling platformer inspired by classic 1985-era platform game
 ## Features
 - Momentum-based running with skidding, variable jump height, coyote time and jump buffering
 - Fixed 60 Hz simulation with render interpolation and a smooth camera that looks ahead
-- High-DPI vector-style art: Pip the hero, Grumbles (mushroom critters) and Snappers (kickable shells)
+- High-DPI vector-style art: Duskguard, an original caped vigilante with a spring-physics cape that flutters and lets you glide slightly if you hold jump while falling,, Grumbles (mushroom critters) and Snappers (kickable shells)
 - ? blocks, breakable bricks, Sproutcap (grow), Ember Bloom (fireballs), Prism Star (invincibility), 1-ups, and 100 coins for an extra life
 - Worlds 1-1 to 1-4: overworld, underground with a bonus pipe, athletic treetops with lifts, and a castle with firebars, a boss, a bridge and an axe
 - Chiptune music and sound effects, a title screen, pause, and a high score saved in localStorage
@@ -18,7 +18,8 @@ An original side-scrolling platformer inspired by classic 1985-era platform game
 |---|---|
 | Move | Arrow keys / A, D |
 | Duck / enter pipe | Down / S |
-| Jump | Z / Space |
+| Glide | Hold jump while falling |
+| Jump | Z / Space / Up / W |
 | Run / fire | X / Shift |
 | Pause | P / Esc |
 | Mute | M |
